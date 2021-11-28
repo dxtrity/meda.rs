@@ -3,7 +3,7 @@
 
 Which is a blockchain written using the **[Go](https://go.dev) Programming Language**.
 
-## Warning This is **NOT** a finished project. Or a working, battle-tested and good one either. This is one of my first projects with Rust so there is bound to be errors.
+## Warning this is **NOT** a finished project. Or a working, battle-tested and good one either. This is one of my first projects with Rust so there is bound to be errors.
 
 ## Building
 Clone the Repo:
