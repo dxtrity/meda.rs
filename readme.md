@@ -7,9 +7,11 @@ Which is a blockchain written using the **[Go](https://go.dev) Programming Langu
 
 ## Building
 Clone the Repo:
+
 ``git clone github.com/dxtrity/meda.rs``
 
 Build it with:
+
 ``cargo build``
 
 ## Why is this a thing?
